@@ -1,7 +1,7 @@
 a = float(input('Введите значение стороны а: '))
 b = float(input('Введите значение стороны b: '))
-c = float(input('Введите значение стороны c: '))
+d = float(input('Введите значение стороны d: '))
 
-area = a*b*c
+area = a*b*d
 
 print(area)
